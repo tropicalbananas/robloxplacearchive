@@ -4,9 +4,9 @@
 
 It appears that the account holding it was hacked in 2017, but the place itself remains unmodified, and can be opened in the March 2007 client. Have Fun!
 
-</tr>ROBLOX Battle Version 1 | ID 96623001&version=1</tr>
+</tr>ROBLOX Battle Version 2 | ID 96623001&version=1</tr>
 
-It's very different from the newest version, using the same ID but with --ver 1 at the end in <a href="https://github.com/Modnark/rbxdl/">rbxdl</a></td>, I got the first version of it, which MIGHT be the version you see in the ROBLOX iPad launch video.
+It's very different from the newest version, using the same ID but with --ver 2 at the end in <a href="https://github.com/Modnark/rbxdl/">rbxdl</a></td>, I got the first version of it that wasn't an empty baseplate, which MIGHT be the version you see in the ROBLOX iOS launch video.
 
 </tr><a href="https://www.roblox.com/games/23522/Santas-Winter-Stronghold">Santa's Winter Stronghold</a></td> | ID 23522</tr>
 
